@@ -1,2 +1,3 @@
 # cricket_score_prediction_webapp
 web application for cricket_score_prediction
+Flask application
